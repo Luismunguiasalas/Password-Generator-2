@@ -1,0 +1,91 @@
+* {
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+}
+body {
+  background-color: #1c1c1c;
+}
+
+#card {
+  background-color: #1f2937;
+  width: 550px;
+  height: 570px;
+  margin: auto;
+  margin-top: 100px;
+  /* text-align: center; */
+}
+
+h1 {
+  display: inline-block;
+  color: #fff;
+  font-family: "Karla";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 40px;
+  line-height: 40px;
+  width: 354px;
+  height: 80px;
+  text-align: left;
+  margin-left: 52px;
+  top: 115px;
+  /* margin-top: 125px; */
+}
+
+span {
+  color: #4adf86;
+}
+
+p {
+  color: #d5d4d8;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 28px;
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  width: 372px;
+  /* height: 28px; */
+  margin-left: 52px;
+  text-align: left;
+}
+
+button {
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 24px;
+  background-color: #10b981;
+  color: #fff;
+  width: 191px;
+  height: 42px;
+  border-radius: 8px;
+  border: hidden;
+  margin-top: 40px;
+  margin-bottom: 40px;
+  margin-left: 52px;
+}
+
+/* #password-wrapper button { */
+/* background-color: #273549; */
+/* color: #55f991; */
+/* margin-top: 40px; */
+/* } */
+
+#heading-wrapper {
+  /* margin-top: 140px; */
+}
+
+#password-wrapper p {
+  background-color: #273549;
+  color: #55f991;
+  border-radius: 8px;
+  padding: 4px;
+  /* line-height: 48px; */
+  margin-top: 20px;
+}
+
+#line-break {
+  width: 446px;
+  border: 1px solid #2f3e53;
+}
